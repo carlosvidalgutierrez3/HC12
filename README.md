@@ -1,5 +1,5 @@
 # Test results
-Using the default HC12 settings, and lowering the TX power to 14dB (default is 20dB), I got uninterrupted communication up to around 35m indoors.  
+Using the default HC12 settings, and lowering the TX power to 14dB (default is 20dB), I got uninterrupted communication up to around 60m indoors.  
 
 ## Test set-up:
 ### Receiver:
