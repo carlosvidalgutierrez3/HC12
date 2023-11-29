@@ -19,3 +19,4 @@ Using the default HC12 settings, and lowering the TX power to 14dB (default is 2
 - better antenna
 - Better power supply and decoupling capacitor between Vcc and GND
 - Better circuit (instead of long jumper wires)
+- Different environment. Many signals and metall construction
