@@ -15,7 +15,7 @@ Using the default HC12 settings, and lowering the TX power to 14dB (default is 2
 - Default antenna on HC12
 
 #### The range could be improved by:
-- getting an original unit (I seem to be using an older/fake version),
+- getting an original unit (I seem to be using an older/fake version. Bought [here](https://www.banggood.com/3Pcs-Geekcreit-HC-12-433MHz-SI4438-Wireless-Serial-Module-Wireless-Transceiver-Transmission-Serial-Communication-Data-Board-Remote-1000M-p-980287.html?rmmds=search&cur_warehouse=CN&p=9O13159455549201703N&custlinkid=933999) in 03/2022),
 - better antenna
 - Better power supply and decoupling capacitor between Vcc and GND
 - Better circuit (instead of long jumper wires)
